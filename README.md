@@ -3,4 +3,4 @@ this is my first  repos.
 <br>
 Author: Rajat kumar Harduwari
 
-The Apna College and Shardha Mam is a good tutor for tje placement 
+The Apna College and Shardha Mam is a good tutor for tech placement 
